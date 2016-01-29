@@ -2,7 +2,7 @@
 
 company profile untuk kesenian jatilan di daerah magelang.
 
-**Menu yang terdapat pada halaman pengunjung :**z
+**Menu yang terdapat pada halaman pengunjung :**
 
 1. Home
 2. About
@@ -11,6 +11,6 @@ company profile untuk kesenian jatilan di daerah magelang.
 5. Blog
 6. Contact
 
-**Menu yang terdapat pada halaman pengunjung :**
+**Menu yang terdapat pada halaman admin :**
 
 ditunggu..... :)
