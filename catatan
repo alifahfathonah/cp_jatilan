@@ -1,0 +1,31 @@
+
+/** catatan bro **/
+
+1. require vs include ?
+   jawaban : keduanya hampir sama. yang beda terletak pada penanganan kesalahan. 'require' akan MENGHENTIKAN script
+   jika terjadi FATAL Error. tapi kalo 'include', akan tetap menjalankan script selanjutnya meskipun script
+   sebelumnya ada yang error.
+
+2. require_once vs require ?
+   jawaban : keduanya hampir sama, mereka berbicara masalah 'memasukan file' juga.
+   keduanya bicara masalah 'fungsi' yang dapat dipanggil kembali atau tidak.
+
+3. real_escape_string vs escape_string ?
+   jawaban : keduanya sama. mereka digunakan untuk 'security' SQL injection, digunakan pada
+   pernyataan SQL.
+
+4. die() vs exit() ?
+   jawaban : keduanya sama. Salah satu fungsi PHP yang sering digunakan pada saat melakukan
+   koneksi dengan MySQL adalah fungsi die() dan exit().Sesuai dengan namanya,
+   fungsi ini bertujuan untuk ’membunuh’ atau ’keluar’ dari PHP.
+   Kedua fungsi ini bertujuan untuk membuat proses PHP berhenti diproses pada saat itu juga
+   (pada saat fungsi ini dipanggil).
+
+5. $_Get
+   Ingat !! method post dilewatkan pada URL. jadi misalnya, anda punya $data = $_get['edit'], itu artinya 'edit'
+   akan terlihat di URL. coba pertahikan.
+
+6. Menyimpan images
+   ada dua cara untuk menyimpan gambar. yang pertama disimpan pada database, dan yang kedua disimpan pada folder
+   web projeknya. pengen tau lebih jelas, coba cari digoogle.. :) atau gak cari di computer di image, kayaknya dulu
+   aku pernah print screen.
